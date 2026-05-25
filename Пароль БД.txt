@@ -1,0 +1,10 @@
+timbd
+TimBd12345!
+
+admin / admin123
+
+tech / tech123
+
+operator1 / oper123
+
+store1 / store123
